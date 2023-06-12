@@ -1,3 +1,4 @@
+.PHONY: clean build net deploy forge_test truffle_test debug
 
 GANACHE=/Users/zhouyinhui/Library/pnpm/ganache
 FORK_URL="REPLACE_WITH_YOUR_RPC"
