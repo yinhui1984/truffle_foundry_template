@@ -1,6 +1,6 @@
 
 GANACHE=/Users/zhouyinhui/Library/pnpm/ganache
-FORK_URL=https://rpc.ankr.com/bsc/83bdc2825fe4d352f47d9b33d11059fed4576f7270d74b6c609d3095eab4df8b
+FORK_URL="REPLACE_WITH_YOUR_RPC"
 FORK_BLOCKNUMBER=22315679
 
 
